@@ -11,3 +11,5 @@ done
 
 
 eco " This is a dummy line"
+echo " this file is alredy committed"
+
